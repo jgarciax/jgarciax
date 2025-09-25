@@ -52,6 +52,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jared-garcia-a05861282/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    
+<a href="mailto:Edsonpatzan@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Edson,">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
-  <a href="Edsonpatzan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-</p>
