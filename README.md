@@ -56,3 +56,7 @@
 <a href="mailto:Edsonpatzan@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Edson,">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jgarciax&style=flat-square&color=blue" alt="Profile views"/>
+</p>
